@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🎓 I am Younes Gholami, a Back End Web Developer (specializing in Django Applications). I am also Pursuing my Bachelor in Computer Engineering and will graduate in 2027.
+
+ I am really enthusiastic about learning new technology. In 2013, I started learning English language. I started learning Python in 2023, and Django in 2024.
 <!--
 **younesgholamii/younesgholamii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
