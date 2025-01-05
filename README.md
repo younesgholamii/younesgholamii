@@ -19,8 +19,8 @@ Aspiring **Backend Developer** | Python & Django Enthusiast | Problem Solver
 ---
 
 ## 📊 GitHub Stats  
-![younesgholamii](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=younesghlamii&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=younesgholamii&layout=compact&theme=radical)
 
 ---
 
