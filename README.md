@@ -15,8 +15,8 @@ I'm a passionate **Backend Developer in progress**, currently focusing on Python
 ---
 
 ## 🚀 My Projects  
-- **[Bootcamp Project](#):** A full-stack web application built using Django and PostgreSQL.  
-- **Educational Projects:** Personal projects developed to learn and improve my backend skills.  
+- **[Bootcamp Project](https://github.com/younesgholamii/bootcamp_appointment):** A full-stack web application built using Django and PostgreSQL.  
+- **[Educational Projects](https://github.com/younesgholamii/onlineshop):** Personal projects developed to learn and improve my backend skills.  
 
 Feel free to explore my repositories to see more of my work!
 
@@ -35,7 +35,7 @@ Feel free to explore my repositories to see more of my work!
 ---
 
 ## 🌟 About Me  
-- Fluent in Persian and intermediate to advanced in English.  
+- Intermediate to advanced in English.  
 - Passionate about learning, teamwork, and solving challenging problems.
 
 ---
