@@ -1,50 +1,45 @@
 
-# Hi there, I'm Younes! 👋
+# Hi there, I'm [Your Name]! 👋
 
-Welcome to my GitHub profile!  
-I'm a passionate **Backend Developer in progress**, currently focusing on Python and Django to build scalable and efficient web applications. My ultimate goal is to use technology to solve real-world problems and make people's lives easier.
-
----
-
-## 🔧 Technologies & Tools  
-- **Programming & Frameworks:** Python, Django, Django Rest Framework  
-- **Databases:** PostgreSQL, Redis  
-- **Web Development:** REST APIs, HTML, CSS (basic)  
-- **Version Control:** Git  
+Aspiring **Backend Developer** | Python & Django Enthusiast | Problem Solver  
 
 ---
 
-## 🚀 My Projects  
-- **[Bootcamp Project](https://github.com/younesgholamii/bootcamp_appointment):** A full-stack web application built using Django and PostgreSQL.  
-- **[Educational Projects](https://github.com/younesgholamii/onlineshop):** Personal projects developed to learn and improve my backend skills.  
-
-Feel free to explore my repositories to see more of my work!
-
----
-
-## 🎯 Goals & Interests  
-- Aspiring to become a **Backend Developer** specializing in Python and Django.  
-- Interested in **cybersecurity** and **networking** as secondary areas of focus.  
-
----
-
-## 🎓 Certifications & Competitions  
-- Certificates from completed courses (available on my [LinkedIn](www.linkedin.com/in/younes-gholami-42714b31b)).  
-- Actively participating in a **robotics competition**, contributing to the development of an autonomous vehicle.
+## 🛠️ Languages and Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white&label=Django%20Rest%20Framework)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
 ---
 
-## 🌟 About Me  
-- Intermediate to advanced in English.  
-- Passionate about learning, teamwork, and solving challenging problems.
+## 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🚀 Projects  
+- **[Bootcamp Project](https://github.com/younesgholamii/bootcamp_appointment):** A full-stack web app built with Django & PostgreSQL.  
+- **Educational Projects:** Hands-on projects to sharpen my backend skills.(**[onlineshop](https://github.com/younesgholamii/onlineshop) [weblog](https://github.com/younesgholamii/weblog)**)
+
+---
+
+## 🎯 Goals  
+Becoming a professional **Backend Developer** to build impactful solutions.  
+Exploring **Cybersecurity** and **Networking** as complementary interests.
 
 ---
 
 ## 📫 Let's Connect!  
-- [LinkedIn](www.linkedin.com/in/younes-gholami-42714b31b): Stay connected and explore my professional journey.  
-- [Email](mailto:younes3021.us@gmail.com): Feel free to reach out for collaborations or discussions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-Thanks for visiting my profile! I'm always open to feedback, collaborations, and exciting opportunities.  
-**Let's build something amazing together!**
+Thanks for visiting! Let's build something amazing together. 🚀
