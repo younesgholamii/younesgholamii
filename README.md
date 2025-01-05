@@ -1,19 +1,50 @@
-## Hi there 👋
 
-🎓 I am Younes Gholami, a Back End Web Developer (specializing in Django Applications). I am also Pursuing my Bachelor in Computer Engineering and will graduate in 2027.
+# Hi there, I'm Younes! 👋
 
- I am really enthusiastic about learning new technology. In 2013, I started learning English language. I started learning Python in 2023, and Django in 2024.
-<!--
-**younesgholamii/younesgholamii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a passionate **Backend Developer in progress**, currently focusing on Python and Django to build scalable and efficient web applications. My ultimate goal is to use technology to solve real-world problems and make people's lives easier.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools  
+- **Programming & Frameworks:** Python, Django, Django Rest Framework  
+- **Databases:** PostgreSQL, Redis  
+- **Web Development:** REST APIs, HTML, CSS (basic)  
+- **Version Control:** Git  
+
+---
+
+## 🚀 My Projects  
+- **[Bootcamp Project](#):** A full-stack web application built using Django and PostgreSQL.  
+- **Educational Projects:** Personal projects developed to learn and improve my backend skills.  
+
+Feel free to explore my repositories to see more of my work!
+
+---
+
+## 🎯 Goals & Interests  
+- Aspiring to become a **Backend Developer** specializing in Python and Django.  
+- Interested in **cybersecurity** and **networking** as secondary areas of focus.  
+
+---
+
+## 🎓 Certifications & Competitions  
+- Certificates from completed courses (available on my [LinkedIn](www.linkedin.com/in/younes-gholami-42714b31b)).  
+- Actively participating in a **robotics competition**, contributing to the development of an autonomous vehicle.
+
+---
+
+## 🌟 About Me  
+- Fluent in Persian and intermediate to advanced in English.  
+- Passionate about learning, teamwork, and solving challenging problems.
+
+---
+
+## 📫 Let's Connect!  
+- [LinkedIn](www.linkedin.com/in/younes-gholami-42714b31b): Stay connected and explore my professional journey.  
+- [Email](mailto:younes3021.us@gmail.com): Feel free to reach out for collaborations or discussions.
+
+---
+
+Thanks for visiting my profile! I'm always open to feedback, collaborations, and exciting opportunities.  
+**Let's build something amazing together!**
