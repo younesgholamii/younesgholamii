@@ -26,7 +26,7 @@ Aspiring **Backend Developer** | Python & Django Enthusiast | Problem Solver
 
 ## 🚀 Projects  
 - **[Bootcamp Project](https://github.com/younesgholamii/bootcamp_appointment):** A full-stack web app built with Django & PostgreSQL.  
-- **Educational Projects:** Hands-on projects to sharpen my backend skills.(**[onlineshop](https://github.com/younesgholamii/onlineshop) [weblog](https://github.com/younesgholamii/weblog)**)
+- **Educational Projects:** Hands-on projects to sharpen my backend skills.(**[onlineshop](https://github.com/younesgholamii/onlineshop)**)
 
 ---
 
